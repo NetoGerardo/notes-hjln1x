@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://NetoGerardo.github.io/notes-hjln1x/sitemap.xml
